@@ -20,5 +20,8 @@ During this excercise, I practiced:
 - CSS3
 - HTML5
 
+## Launch
+[See the live version of the Color Palette app here.](https://qd38si.csb.app/)
+
 ## Acknowledgements
 **Skillcrush** - The app's HTML, CSS, and React files were provided by Skillcrush.  
